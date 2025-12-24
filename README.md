@@ -31,6 +31,38 @@ https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset
 ## Final Model
 Logistic Regression was selected as the final model based on accuracy and stability.
 
+## How to Run the Code
+
+### Prerequisites
+- Python 3.11+ (Python 3.13 also works)
+- pip (Python package manager)
+
+### Steps to Run
+
+1. Clone the repository or download the files:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/breast-cancer-ml-assignment.git
+   ```
+   ```bash
+   cd breast-cancer-ml-assignment
+   ```
+   ```bash
+   python -m venv ml_env
+   ```
+   ```bash
+   ml_env\Scripts\activate
+   ```
+   ```bash
+   pip install pandas matplotlib scikit-learn
+   ```
+   ```bash
+   python ml.py
+   ```
+
+
+
+
+
 ## Tools
 - Python
 - scikit-learn
